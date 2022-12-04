@@ -1,0 +1,13 @@
+.content {
+    grid-area: c;
+    /*background-color: #f3d9fa;*/
+    background-color: #F4DBBD;
+}
+
+.content img {
+    width: 800px;
+}
+
+/*.item {*/
+/*    color: crimson;*/
+/*}*/
