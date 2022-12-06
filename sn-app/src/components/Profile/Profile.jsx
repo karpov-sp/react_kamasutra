@@ -5,7 +5,7 @@ import MyPosts from "./MyPosts/MyPosts";
 const Profile = () => {
     return <div className={classes.content}>
         <div>
-            <img src='https://cdn.unifiedcommerce.com/content/product/large/628136654449-L.jpg'/>
+            <img src='https://cdn.unifiedcommerce.com/content/product/large/628136654449-L.jpg' alt="castle"/>
         </div>
         <div>
             ava+description
